@@ -1,4 +1,4 @@
-var about = "'m Yasin. I'm FullStack Web developer and learning data science with keen understanding of Python,html,css,django,data structure.";
+var about = "I'm Yasin. I'm FullStack Web developer and learning data science with keen understanding of Python,html,css,django,data structure.";
 i = 0;
 function typeWriter() {
     if (i < about.length) {
