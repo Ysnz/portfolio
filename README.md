@@ -2,4 +2,4 @@
 
 Portfolio website
 
-(visit now)[https://brillianttyagi.github.io/]
+(visit now)[https://https://ysnz.github.io/portfolio/.]
